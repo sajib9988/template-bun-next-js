@@ -4,7 +4,7 @@ import { ArrowRight, Flame } from 'lucide-react';
 
 export default function HeroSection() {
   return (
-<section className="relative bg-gradient-to-r from-sky-400 via-blue-600 to-blue-900 py-4 md:py-6 lg:py-8 mt-[17px] rounded-4xl overflow-hidden">
+<section className="relative bg-gradient-to-r from-sky-400 via-blue-600 to-blue-900 py-4 md:py-6 lg:py-8 mt-[42px] rounded-4xl overflow-hidden">
 
 
 
